@@ -24,9 +24,10 @@ Linux
 sudo apt install cloudflared
 ```
 
-### 3. 로컬 서버를 3000포트에서 실행
+### 3. server.mjs에서 서버 실행
 
 ```
+cmd
 npm run dev
 ```
 
